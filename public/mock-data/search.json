@@ -1,0 +1,467 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - top quán cafe ngon ở sài gòn site:toplist.vn",
+                "totalResults": "1400",
+                "searchTerms": "top quán cafe ngon ở sài gòn site:toplist.vn",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "008684158342742276525:egnahu_hzhq"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - top quán cafe ngon ở sài gòn site:toplist.vn",
+                "totalResults": "1400",
+                "searchTerms": "top quán cafe ngon ở sài gòn site:toplist.vn",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "008684158342742276525:egnahu_hzhq"
+            }
+        ]
+    },
+    "context": {
+        "title": "Google"
+    },
+    "searchInformation": {
+        "searchTime": 0.331039,
+        "formattedSearchTime": "0.33",
+        "totalResults": "1400",
+        "formattedTotalResults": "1,400"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Top quán cafe sài gòn (33 danh sách top về quán cafe sài gòn ...",
+            "htmlTitle": "<b>Top quán cafe sài gòn</b> (33 danh sách <b>top</b> về <b>quán cafe sài gòn</b> ...",
+            "link": "https://toplist.vn/top-lists/qu%C3%A1n-cafe-s%C3%A0i-g%C3%B2n/",
+            "displayLink": "toplist.vn",
+            "snippet": "Danh sách top về chủ đề quán cafe sài gòn có 33 danh sách cafe sài gòn, quán \ncafe sài gòn, cafe đẹp nhất sài gòn, quán cafe đẹp nhất, cafe ngon nhất, quán ...",
+            "htmlSnippet": "Danh sách <b>top</b> về chủ đề <b>quán cafe sài gòn</b> có 33 danh sách cafe <b>sài gòn</b>, <b>quán</b> <br>\n<b>cafe sài gòn</b>, cafe đẹp <b>nhất sài gòn</b>, <b>quán cafe</b> đẹp <b>nhất</b>, cafe <b>ngon nhất</b>, quán&nbsp;...",
+            "cacheId": "F67cvL3NwgkJ",
+            "formattedUrl": "https://toplist.vn/top-lists/quán-cafe-sài-gòn/",
+            "htmlFormattedUrl": "https://<b>top</b>list.vn/<b>top</b>-lists/<b>quán</b>-<b>cafe</b>-<b>sài</b>-<b>gòn</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200",
+                        "height": "200",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5Ki8l7tvZK4T7gj9IDv2uQO8dY0wF0ciwxVsNyxEunpzf696oV_Hw9UQ"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "og:type": "article",
+                        "og:site_name": "toplist.vn",
+                        "fb:app_id": "312211842489673"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://toplist.vn/images/200px/-278976.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Top 5 quán cafe được yêu thích nhất tại Sài Gòn - Toplist.vn",
+            "htmlTitle": "<b>Top</b> 5 <b>quán cafe</b> được yêu thích <b>nhất</b> tại <b>Sài Gòn</b> - Toplist.vn",
+            "link": "https://toplist.vn/top-list/quan-cafe-duoc-yeu-thich-nhat-tai-sai-gon-686.htm",
+            "displayLink": "toplist.vn",
+            "snippet": "12 Tháng 4 2019 ... Thức uống thì khỏi phải nói luôn, ngon mà giá lại rẻ nữa. Thức Coffee được các \nbạn trẻ Sài Gòn đánh giá là quán mở 24h tốt nhất, phù hợp ...",
+            "htmlSnippet": "12 Tháng 4 2019 <b>...</b> Thức uống thì khỏi phải nói luôn, <b>ngon</b> mà giá lại rẻ nữa. Thức <b>Coffee</b> được các <br>\nbạn trẻ <b>Sài Gòn</b> đánh giá là <b>quán</b> mở 24h tốt <b>nhất</b>, phù hợp&nbsp;...",
+            "cacheId": "DyJ6D37mmd8J",
+            "formattedUrl": "https://toplist.vn/top.../quan-cafe-duoc-yeu-thich-nhat-tai-sai-gon-686.htm",
+            "htmlFormattedUrl": "https://<b>top</b>list.vn/<b>top</b>.../<b>quan</b>-<b>cafe</b>-duoc-yeu-thich-nhat-tai-<b>sai</b>-<b>gon</b>-686.htm",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "295",
+                        "height": "171",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOrxJ6pS1XR8Q_nOrugN8rbZXW5nRUhyZPInjMP4HPbWgzjNP1YpcAAN0"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "og:type": "article",
+                        "og:site_name": "toplist.vn",
+                        "fb:app_id": "312211842489673",
+                        "og:url": "https://toplist.vn/top-list/quan-cafe-duoc-yeu-thich-nhat-tai-sai-gon-686.htm",
+                        "og:title": "Top 5 quán cafe được yêu thích nhất tại Sài Gòn - Toplist.vn",
+                        "og:description": "Không biết từ bao giờ, sở thích được nhâm nhi ly cafe vào lúc rảnh rổi ở những quán cafe đã trở thành một thói quen phổ biến trong mọi tầng lớp, đặc biệt là giới trẻ, Đi đâu, khắp mọi ngóc ngách của thành phố, chúng ta đều có thể bắt gặp rất nhiều bạn trẻ ngồi chuyện trò với nhau bên những tách cafe thơm ngon, giữa một không gian tuyệt vời, có thể là lãng mạn, cũng có khi năng động, trẻ trung, hay đôi lúc là một không gian trầm lắng, nhẹ nhàng du dương theo khúc nhạc buồn. Chính vì vậy mà các quán cafe với đa dạng những phong cách khác nhau cứ thế mọc lên như nấm. Sau đây chúng ta cùng điểm qua những địa điểm được các bạn trẻ Sài Gòn yêu thích nhất nhé: Cửa hàng cà phê 81, Thức Coffee, Nấp Saigon, RuNam D'Or, Mầm Cafe,",
+                        "og:image": "https://toplist.vn/images/800px/quan-cafe-duoc-yeu-thich-nhat-tai-sai-gon-220042.jpg",
+                        "og:image:secure_url": "https://toplist.vn/images/800px/quan-cafe-duoc-yeu-thich-nhat-tai-sai-gon-220042.jpg",
+                        "og:image:type": "image/jpeg",
+                        "og:image:width": "770",
+                        "og:image:height": "445",
+                        "og:image:alt": "quán cafe được yêu thích nhất tại Sài Gòn"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://toplist.vn/images/800px/quan-cafe-duoc-yeu-thich-nhat-tai-sai-gon-220042.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Top 5 Quán cafe trứng ngon nhất Sài Gòn - Toplist.vn",
+            "htmlTitle": "<b>Top</b> 5 <b>Quán cafe</b> trứng <b>ngon nhất Sài Gòn</b> - Toplist.vn",
+            "link": "https://toplist.vn/top-list/quan-cafe-trung-ngon-nhat-sai-gon-23384.htm",
+            "displayLink": "toplist.vn",
+            "snippet": "5 Tháng 4 2019 ... Các bạn hãy cùng Toplist điểm qua một số quán cafe có món cafe trứng ngon \nnhất tại Sài Gòn nhé.: RuNam D'Or, Cửa hàng cà phê 81, Nấp ...",
+            "htmlSnippet": "5 Tháng 4 2019 <b>...</b> Các bạn hãy cùng Toplist điểm qua một số <b>quán cafe</b> có món cafe trứng <b>ngon</b> <br>\n<b>nhất</b> tại <b>Sài Gòn</b> nhé.: RuNam D&#39;Or, Cửa hàng cà phê 81, Nấp&nbsp;...",
+            "cacheId": "aIMTpawzOUgJ",
+            "formattedUrl": "https://toplist.vn/top.../quan-cafe-trung-ngon-nhat-sai-gon-23384.htm",
+            "htmlFormattedUrl": "https://<b>top</b>list.vn/<b>top</b>.../<b>quan</b>-<b>cafe</b>-trung-<b>ngon</b>-nhat-<b>sai</b>-<b>gon</b>-23384.htm",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREIsq2GmpYEzudThdXDBd0Z0lCaSaGotHuVHOaW1j9bJ9bRkbnwHLgIx9b"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "og:type": "article",
+                        "og:site_name": "toplist.vn",
+                        "fb:app_id": "312211842489673",
+                        "og:url": "https://toplist.vn/top-list/quan-cafe-trung-ngon-nhat-sai-gon-23384.htm",
+                        "og:title": "Top 5 Quán cafe trứng ngon nhất Sài Gòn - Toplist.vn",
+                        "og:description": "Chắc hẳn ở Sài Gòn, món cafe trứng có lẽ là một loại thức uống mới nhưng thật ra món này đã xuất hiện từ rất lâu rồi. Bạn đã từng thưởng thức capuchino chưa? Mùi vị của cafe trứng chắc chắn thơm ngon và độc đáo hơn capuchino rất nhiều nếu bạn là một người hảo ngọt và không chuộn món capuchino, cafe trứng sẽ đánh gục bạn ngay từ lần đầu thưởng thức. Vị béo ngậy của trứng, vị ngọt của một ít sữa đặc được hoà lẫn với cafe đắng không đường sẽ tạo nên một ấn tượng khó phai. Mới mô tả thôi đã thấy hấp dẫn rồi. Các bạn hãy cùng Toplist điểm qua một số quán cafe có món cafe trứng ngon nhất tại Sài Gòn nhé.: RuNam D'Or, Cửa hàng cà phê 81, Nấp Saigon, Vietphin Coffee, Hiki - Coffee & Tea,",
+                        "og:image": "https://toplist.vn/images/800px/quan-cafe-trung-ngon-nhat-sai-gon-219059.jpg",
+                        "og:image:secure_url": "https://toplist.vn/images/800px/quan-cafe-trung-ngon-nhat-sai-gon-219059.jpg",
+                        "og:image:type": "image/jpeg",
+                        "og:image:width": "650",
+                        "og:image:height": "650",
+                        "og:image:alt": "Quán cafe trứng ngon nhất Sài Gòn"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://toplist.vn/images/800px/quan-cafe-trung-ngon-nhat-sai-gon-219059.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Top 6 Quán cafe đông khách nhất sài gòn - Toplist.vn",
+            "htmlTitle": "<b>Top</b> 6 <b>Quán cafe</b> đông khách <b>nhất sài gòn</b> - Toplist.vn",
+            "link": "https://toplist.vn/top-list/quan-cafe-dong-khach-nhat-sai-gon-31167.htm",
+            "displayLink": "toplist.vn",
+            "snippet": "27 Tháng Sáu 2019 ... Thử tưởng tượng bạn đang thưởng thức tách cà phê thơm ngon giữa ... Ở vị trí \ncao hơn tất cả những quán cà phê khác ở Sài Gòn, Café EON ...",
+            "htmlSnippet": "27 Tháng Sáu 2019 <b>...</b> Thử tưởng tượng bạn đang thưởng thức tách cà phê thơm <b>ngon</b> giữa ... <b>Ở</b> vị trí <br>\ncao hơn tất cả những <b>quán</b> cà phê khác <b>ở Sài Gòn</b>, <b>Café</b> EON&nbsp;...",
+            "cacheId": "8IO4VcU1_oIJ",
+            "formattedUrl": "https://toplist.vn/top.../quan-cafe-dong-khach-nhat-sai-gon-31167.htm",
+            "htmlFormattedUrl": "https://<b>top</b>list.vn/<b>top</b>.../<b>quan</b>-<b>cafe</b>-dong-khach-nhat-<b>sai</b>-<b>gon</b>-31167.htm",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAZRqqsgCKW1kpNfJs-b1GExEbMUE4h59UPimWI2ElP3nUyDyZJLUV8N80"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "og:type": "article",
+                        "og:site_name": "toplist.vn",
+                        "fb:app_id": "312211842489673",
+                        "og:url": "https://toplist.vn/top-list/quan-cafe-dong-khach-nhat-sai-gon-31167.htm",
+                        "og:title": "Top 6 Quán cafe đông khách nhất sài gòn - Toplist.vn",
+                        "og:description": "Giữa nhịp sống hối hả, mỗi người đều cần chút thời gian lắng lại thưởng thức nét văn hoá của Sài Gòn. Những quán cà phê sau là địa chỉ đáng nhớ cho chuyến du lịch TP.HCM của bạn.: Okkio, Eon Café, Runam Bistro, Park Lounge, Tròn Bistro, Du Miên Garden,",
+                        "og:image": "https://toplist.vn/images/800px/quan-cafe-dong-khach-nhat-sai-gon-277738.jpg",
+                        "og:image:secure_url": "https://toplist.vn/images/800px/quan-cafe-dong-khach-nhat-sai-gon-277738.jpg",
+                        "og:image:type": "image/jpeg",
+                        "og:image:width": "800",
+                        "og:image:height": "533",
+                        "og:image:alt": "Quán cafe đông khách nhất sài gòn"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://toplist.vn/images/800px/quan-cafe-dong-khach-nhat-sai-gon-277738.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Top 10 quán café 24/24 ở Sài Gòn mở cửa qua đêm được yêu thích ...",
+            "htmlTitle": "<b>Top</b> 10 <b>quán café</b> 24/24 <b>ở Sài Gòn</b> mở cửa qua đêm được yêu thích ...",
+            "link": "https://toplist.vn/top-list/quan-cafe-2424-o-sai-gon-mo-cua-qua-dem-duoc-yeu-thich-nhat-9160.htm",
+            "displayLink": "toplist.vn",
+            "snippet": "7 Tháng 4 2019 ... Thức uống thì khỏi phải nói luôn, ngon mà giá lại rẻ nữa. Thức Coffee được các \nbạn trẻ Sài Gòn đánh giá là quán mở 24h tốt nhất, phù hợp ...",
+            "htmlSnippet": "7 Tháng 4 2019 <b>...</b> Thức uống thì khỏi phải nói luôn, <b>ngon</b> mà giá lại rẻ nữa. Thức <b>Coffee</b> được các <br>\nbạn trẻ <b>Sài Gòn</b> đánh giá là <b>quán</b> mở 24h tốt <b>nhất</b>, phù hợp&nbsp;...",
+            "cacheId": "P9FPxbbEA6YJ",
+            "formattedUrl": "https://toplist.vn/top.../quan-cafe-2424-o-sai-gon-mo-cua-qua-dem-duoc-yeu -thich-nhat-9160.htm",
+            "htmlFormattedUrl": "https://<b>top</b>list.vn/<b>top</b>.../<b>quan</b>-<b>cafe</b>-2424-o-<b>sai</b>-<b>gon</b>-mo-cua-qua-dem-duoc-yeu -thich-nhat-9160.htm",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "270",
+                        "height": "187",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTX2Oe9huGB80pkPHCyCw1KF33w5fr4xKkJ7YsNX58cwDfi3_LRxjXrh8g"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "og:type": "article",
+                        "og:site_name": "toplist.vn",
+                        "fb:app_id": "312211842489673",
+                        "og:url": "https://toplist.vn/top-list/quan-cafe-2424-o-sai-gon-mo-cua-qua-dem-duoc-yeu-thich-nhat-9160.htm",
+                        "og:title": "Top 10 quán café 24/24 ở Sài Gòn mở cửa qua đêm được yêu thích nhất - Toplist.vn",
+                        "og:description": "Sài gòn được mệnh danh là “thành phố không bao giờ ngủ”. Đúng như thế đấy các bạn. Sài Gòn luôn náo nhiệt như vậy đó. Tất bật với các hàng quán đông người. Hôm nay Toplist.vn xin gửi đến các bạn top 10 quán cà phê 24h tại Sài Gòn dành cho dân cú đêm. Đến và cảm nhận một thành phố luôn thức nhé các bạn.: Thức Coffee, RuNam D'Or, Opera Tea Club, To Go Coffee & Tea, Nấp Saigon, Snob Coffee, Mr.8 Coffee, Ngẫm Cafe, Cửa hàng cà phê 81, Ice Zone,",
+                        "og:image": "https://toplist.vn/images/800px/quan-cafe-2424-o-sai-gon-mo-cua-qua-dem-duoc-yeu-thich-nhat-220020.jpg",
+                        "og:image:secure_url": "https://toplist.vn/images/800px/quan-cafe-2424-o-sai-gon-mo-cua-qua-dem-duoc-yeu-thich-nhat-220020.jpg",
+                        "og:image:type": "image/jpeg",
+                        "og:image:width": "720",
+                        "og:image:height": "500",
+                        "og:image:alt": "quán café 24/24 ở Sài Gòn mở cửa qua đêm được yêu thích nhất"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://toplist.vn/images/800px/quan-cafe-2424-o-sai-gon-mo-cua-qua-dem-duoc-yeu-thich-nhat-220020.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Top 5 quán cafe view triệu đô đẹp nhất Sài Gòn - Toplist.vn",
+            "htmlTitle": "<b>Top</b> 5 <b>quán cafe</b> view triệu đô đẹp <b>nhất Sài Gòn</b> - Toplist.vn",
+            "link": "https://toplist.vn/top-list/quan-cafe-view-trieu-do-dep-nhat-sai-gon-31386.htm",
+            "displayLink": "toplist.vn",
+            "snippet": "6 Tháng Bảy 2019 ... Sài Gòn nổi tiếng với vô vàn quán café sống ảo chất ngất. Nếu là tín đồ của café \nthường xuyên săn lùng những địa điểm mới nhất, đẹp nhất thì ...",
+            "htmlSnippet": "6 Tháng Bảy 2019 <b>...</b> <b>Sài Gòn nổi tiếng</b> với vô vàn <b>quán café</b> sống ảo chất ngất. Nếu là tín đồ của café <br>\nthường xuyên săn lùng những địa điểm mới <b>nhất</b>, đẹp <b>nhất</b> thì&nbsp;...",
+            "cacheId": "-ieCnCY99cAJ",
+            "formattedUrl": "https://toplist.vn/top.../quan-cafe-view-trieu-do-dep-nhat-sai-gon-31386.htm",
+            "htmlFormattedUrl": "https://<b>top</b>list.vn/<b>top</b>.../<b>quan</b>-<b>cafe</b>-view-trieu-do-dep-nhat-<b>sai</b>-<b>gon</b>-31386.htm",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259",
+                        "height": "194",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcToX6saO7BCeKAecFAJFc6iaXUVD0z4-rHU8o2kvq_cWJOKrF6WXsX78bA9"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "og:type": "article",
+                        "og:site_name": "toplist.vn",
+                        "fb:app_id": "312211842489673",
+                        "og:url": "https://toplist.vn/top-list/quan-cafe-view-trieu-do-dep-nhat-sai-gon-31386.htm",
+                        "og:title": "Top 5 quán cafe view triệu đô đẹp nhất Sài Gòn - Toplist.vn",
+                        "og:description": "Sài Gòn nổi tiếng với vô vàn quán café sống ảo chất ngất. Nếu là tín đồ của café thường xuyên săn lùng những địa điểm mới nhất, đẹp nhất thì bạn nhất định không thể bỏ qua bài viết này. Dưới đây là tổng hợp những địa chỉ café view triệu đô vô cùng thu hút ở Sài Gòn.: Little Chair, Cafe Runam, Heritage Concept Chill Hub, The Open Space, Thinker&Dreamer Coffee,",
+                        "og:image": "https://toplist.vn/images/800px/heritage-concept-chill-hub-279922.jpg",
+                        "og:image:secure_url": "https://toplist.vn/images/800px/heritage-concept-chill-hub-279922.jpg",
+                        "og:image:type": "image/jpeg",
+                        "og:image:width": "800",
+                        "og:image:height": "600",
+                        "og:image:alt": "quán cafe view triệu đô đẹp nhất Sài Gòn"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://toplist.vn/images/800px/heritage-concept-chill-hub-279922.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Top 5 Quán cafe ngắm máy bay cực chất ở Sài Gòn - Toplist.vn",
+            "htmlTitle": "<b>Top</b> 5 <b>Quán cafe</b> ngắm máy bay cực chất <b>ở Sài Gòn</b> - Toplist.vn",
+            "link": "https://toplist.vn/top-list/quan-cafe-ngam-may-bay-cuc-chat-o-sai-gon-15160.htm",
+            "displayLink": "toplist.vn",
+            "snippet": "16 Tháng Năm 2018 ... Top 5 Quán cafe ngắm máy bay cực chất ở Sài Gòn ... bay Tân Sơn Nhất. Đồ \nuống ở đây khá đa dạng, kem mát lạnh và món ăn thơm ngon, ...",
+            "htmlSnippet": "16 Tháng Năm 2018 <b>...</b> <b>Top</b> 5 <b>Quán cafe</b> ngắm máy bay cực chất <b>ở Sài Gòn</b> ... bay Tân Sơn <b>Nhất</b>. Đồ <br>\nuống <b>ở</b> đây khá đa dạng, kem mát lạnh và món ăn thơm <b>ngon</b>,&nbsp;...",
+            "cacheId": "n5_jkSM0KjgJ",
+            "formattedUrl": "https://toplist.vn/top.../quan-cafe-ngam-may-bay-cuc-chat-o-sai-gon-15160. htm",
+            "htmlFormattedUrl": "https://<b>top</b>list.vn/<b>top</b>.../<b>quan</b>-<b>cafe</b>-ngam-may-bay-cuc-chat-o-<b>sai</b>-<b>gon</b>-15160. htm",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "179",
+                        "height": "282",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkJQDVNrxN9RYSDySLwh7VZmKZpVgaBujeYvDVxJd92ssbuFUjht6Su7k5"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "og:type": "article",
+                        "og:site_name": "toplist.vn",
+                        "fb:app_id": "312211842489673",
+                        "og:url": "https://toplist.vn/top-list/quan-cafe-ngam-may-bay-cuc-chat-o-sai-gon-15160.htm",
+                        "og:title": "Top 5 Quán cafe ngắm máy bay cực chất ở Sài Gòn - Toplist.vn",
+                        "og:description": "Thưởng thức một ly cafe trên cao luôn là một cảm giác thú vị bởi ta có thể ngắm nhìn toàn cảnh thành phố với nhà cửa, phố xá với ánh đèn lung linh. Nhưng sẽ đặc biệt hơn nếu ta có thể ngắm những chiếc máy bay với cự ly gần nhất bên tách cafe đúng không nhỉ? Để có trải nghiệm đặc biệt đó các bạn hãy tham khảo những quán cafe ngắm máy bay cực  chất ở Sài Gòn mà toplist giới thiệu ngay sau đây.: Moonligh Coffee Lounge, Cà phê Winner, Đào Nguyên - Cafe sân thượng, Cafe 17, Đất Sài Gòn - Cafe Ngắm Máy Bay,",
+                        "og:image": "https://toplist.vn/images/800px/moonligh-coffee-lounge-156958.jpg",
+                        "og:image:secure_url": "https://toplist.vn/images/800px/moonligh-coffee-lounge-156958.jpg",
+                        "og:image:type": "image/jpeg",
+                        "og:image:width": "609",
+                        "og:image:height": "960",
+                        "og:image:alt": "Quán cafe ngắm máy bay cực chất ở Sài Gòn"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://toplist.vn/images/800px/moonligh-coffee-lounge-156958.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Top 7 quán cafe tone hồng đáng yêu nhất Sài Gòn - Toplist.vn",
+            "htmlTitle": "<b>Top</b> 7 <b>quán cafe</b> tone hồng đáng yêu <b>nhất Sài Gòn</b> - Toplist.vn",
+            "link": "https://toplist.vn/top-list/quan-cafe-tone-hong-dang-yeu-nhat-sai-gon-31979.htm",
+            "displayLink": "toplist.vn",
+            "snippet": "31 Tháng Bảy 2019 ... Gần đây, nhiều quán cà phê, trà sữa ở Sài Gòn chuộng kiểu décor 1 ... Cùng \nToplist khám phá top 7 quán cà phê màu hồng siêu đẹp ở Sài Thành nhé. ... Sản \nphẩm với nhiều màu sắc lạ mắt, đặc biệt là ngon đến gây nghiện.",
+            "htmlSnippet": "31 Tháng Bảy 2019 <b>...</b> Gần đây, nhiều <b>quán</b> cà phê, trà sữa <b>ở Sài Gòn</b> chuộng kiểu décor 1 ... Cùng <br>\nToplist khám phá <b>top</b> 7 <b>quán</b> cà phê màu hồng siêu đẹp <b>ở</b> Sài Thành nhé. ... Sản <br>\nphẩm với nhiều màu sắc lạ mắt, đặc biệt là <b>ngon</b> đến gây nghiện.",
+            "cacheId": "0ur2IK4QUPgJ",
+            "formattedUrl": "https://toplist.vn/top.../quan-cafe-tone-hong-dang-yeu-nhat-sai-gon-31979. htm",
+            "htmlFormattedUrl": "https://<b>top</b>list.vn/<b>top</b>.../<b>quan</b>-<b>cafe</b>-tone-hong-dang-yeu-nhat-<b>sai</b>-<b>gon</b>-31979. htm",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259",
+                        "height": "194",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKmsYHptb1zXpid51bQCYTo0HYhvgH2LShiiCKqpcNGK4rF2VVHdA1Vd4"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "og:type": "article",
+                        "og:site_name": "toplist.vn",
+                        "fb:app_id": "312211842489673",
+                        "og:url": "https://toplist.vn/top-list/quan-cafe-tone-hong-dang-yeu-nhat-sai-gon-31979.htm",
+                        "og:title": "Top 7 quán cafe tone hồng đáng yêu nhất Sài Gòn - Toplist.vn",
+                        "og:description": "Sài Gòn là thiên đường của hàng quán, và đặc biệt quán nào cũng khiến cho người ta mê mẩn. Gần đây, nhiều quán cà phê, trà sữa ở Sài Gòn chuộng kiểu décor 1 tone màu, đặc biệt tone màu hồng ngọt ngào chiếm nhiều cảm tình nhất. Lướt Facebook, Instagram trông thấy những quán cà phê với background hồng ấy nhiều người lầm tưởng đó là những quán cà phê của Hàn Quốc. Nhưng không nó chỉ nằm ở Sài Gòn thôi. Cùng Toplist khám phá top 7 quán cà phê màu hồng siêu đẹp ở Sài Thành nhé.: Oday Tea, Mato House, Pink Uni Coffee, Cupcake Sweet + Sour, Pinky Diamond, R&B Tea Pink, Ice Kitchen,",
+                        "og:image": "https://toplist.vn/images/800px/quan-cafe-tone-hong-dang-yeu-nhat-sai-gon-287385.jpg",
+                        "og:image:secure_url": "https://toplist.vn/images/800px/quan-cafe-tone-hong-dang-yeu-nhat-sai-gon-287385.jpg",
+                        "og:image:type": "image/jpeg",
+                        "og:image:width": "800",
+                        "og:image:height": "600",
+                        "og:image:alt": "quán cafe tone hồng đáng yêu nhất Sài Gòn"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://toplist.vn/images/800px/quan-cafe-tone-hong-dang-yeu-nhat-sai-gon-287385.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Top 13 quán cà phê đẹp để \"check - in\" ở Vĩnh Long - Toplist.vn",
+            "htmlTitle": "<b>Top</b> 13 <b>quán</b> cà phê đẹp để &quot;check - in&quot; <b>ở</b> Vĩnh Long - Toplist.vn",
+            "link": "https://toplist.vn/top-list/quan-ca-phe-dep-de-check-in-o-vinh-long-15297.htm",
+            "displayLink": "toplist.vn",
+            "snippet": "29 Tháng Tám 2019 ... Top 13 quán cà phê đẹp để \"check - in\" ở Vĩnh Long ... Thức uống của quán \nđược pha chế khá ngon, thơm nhưng không quá ngọt, nhân viên phục vụ nhanh \nnhẹn, nhẹ ..... Top 5 Quán cà phê sân vườn nổi tiếng ở Sài Gòn.",
+            "htmlSnippet": "29 Tháng Tám 2019 <b>...</b> <b>Top</b> 13 <b>quán</b> cà phê đẹp để &quot;check - in&quot; <b>ở</b> Vĩnh Long ... Thức uống của <b>quán</b> <br>\nđược pha chế khá <b>ngon</b>, thơm nhưng không quá ngọt, nhân viên phục vụ nhanh <br>\nnhẹn, nhẹ ..... <b>Top</b> 5 <b>Quán</b> cà phê sân vườn <b>nổi tiếng ở Sài Gòn</b>.",
+            "cacheId": "BETrGOur-ocJ",
+            "formattedUrl": "https://toplist.vn/top.../quan-ca-phe-dep-de-check-in-o-vinh-long-15297.htm",
+            "htmlFormattedUrl": "https://<b>top</b>list.vn/<b>top</b>.../<b>quan</b>-ca-phe-dep-de-check-in-o-vinh-long-15297.htm",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlozdh7m-h8KcgfkpocEqPR7s2bxS-RCcJi9kvKYf2ZDyJF0An5lhmyZDb"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "og:type": "article",
+                        "og:site_name": "toplist.vn",
+                        "fb:app_id": "312211842489673",
+                        "og:url": "https://toplist.vn/top-list/quan-ca-phe-dep-de-check-in-o-vinh-long-15297.htm",
+                        "og:title": "Top 13 quán cà phê đẹp để \"check - in\"  ở Vĩnh Long - Toplist.vn",
+                        "og:description": "Bạn thích selfie, check - in và muốn thư giãn cùng bạn bè vào thời gian rãnh rồi thưởng thức những món đồ uống ngon thơm, đậm đà. Hãy đề toplist giúp bạn nhé: Robusta Koi Garden, Yolo Coffee, Kim Tea, Brownie Coffee & Dessert, Mèo Ú Kitchen, Full House Coffee, Mây Coffee & Tea, Catimo Coffee, Đời đá vàng, Vy's House, Thóc Cafe, UP Coffee & Tea, Như Anh Tea & Coffee,",
+                        "og:image": "https://toplist.vn/images/800px/brownie-coffee-amp-dessert-153454.jpg",
+                        "og:image:secure_url": "https://toplist.vn/images/800px/brownie-coffee-amp-dessert-153454.jpg",
+                        "og:image:type": "image/jpeg",
+                        "og:image:width": "800",
+                        "og:image:height": "800",
+                        "og:image:alt": "quán cà phê đẹp để"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://toplist.vn/images/800px/brownie-coffee-amp-dessert-153454.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Top 8 Quán cà phê sữa đá được yêu thích nhất tại Sài Gòn - Toplist.vn",
+            "htmlTitle": "<b>Top</b> 8 <b>Quán</b> cà phê sữa đá được yêu thích <b>nhất</b> tại <b>Sài Gòn</b> - Toplist.vn",
+            "link": "https://toplist.vn/top-list/quan-ca-phe-sua-da-duoc-yeu-thich-nhat-tai-sai-gon-31636.htm",
+            "displayLink": "toplist.vn",
+            "snippet": "15 Tháng Bảy 2019 ... Nếu nói đến những hàng quán nào Sài Gòn có nhiều nhất, đáp án duy ... sữa đá \nngon nhất tại Sài Gòn.: RuNam D'Or, Cà phê 81, Thức Coffee, ...",
+            "htmlSnippet": "15 Tháng Bảy 2019 <b>...</b> Nếu nói đến những hàng <b>quán</b> nào <b>Sài Gòn</b> có nhiều <b>nhất</b>, đáp án duy ... sữa đá <br>\n<b>ngon nhất</b> tại <b>Sài Gòn</b>.: RuNam D&#39;Or, Cà phê 81, Thức <b>Coffee</b>,&nbsp;...",
+            "cacheId": "dMG9s42M6GAJ",
+            "formattedUrl": "https://toplist.vn/top.../quan-ca-phe-sua-da-duoc-yeu-thich-nhat-tai-sai-gon- 31636.htm",
+            "htmlFormattedUrl": "https://<b>top</b>list.vn/<b>top</b>.../<b>quan</b>-ca-phe-sua-da-duoc-yeu-thich-nhat-tai-<b>sai</b>-<b>gon</b>- 31636.htm",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3_4RB4RMKFIcL9XaT4BhpR6HI9vbbUUIskapOzGW8LJOeV_vSBpyzcJg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "og:type": "article",
+                        "og:site_name": "toplist.vn",
+                        "fb:app_id": "312211842489673",
+                        "og:url": "https://toplist.vn/top-list/quan-ca-phe-sua-da-duoc-yeu-thich-nhat-tai-sai-gon-31636.htm",
+                        "og:title": "Top 8 Quán cà phê sữa đá được yêu thích nhất tại Sài Gòn - Toplist.vn",
+                        "og:description": "Nếu nói đến những hàng quán nào Sài Gòn có nhiều nhất, đáp án duy nhất chỉ có thể là các quán cà phê. Bao gồm rất nhiều thể loại như cà phê sách, cà phê bệt, cà phê vỉa hè, cà phê sân vườn... được xây dựng theo nhiều phong cách và ý nghĩa khác nhau. Và dĩ nhiên không thể không nhắc đến cà phê sữa đá một thức uống yêu thích của người Sài Gòn rồi. Với mong muốn mỗi ngày là một trải nghiệm mới, hôm nay Toplist sẽ gợi ý cho các bạn một số địa chỉ thưởng thức cà phê sữa đá ngon nhất tại Sài Gòn.: RuNam D'Or, Cà phê 81, Thức Coffee, Mầm Cafe, Cà phê Lão Hạc, Cà phê Năm Mười Mười Lăm, Nấp Saigon, Hiki - Coffee & Tea,",
+                        "og:image": "https://toplist.vn/images/800px/runam-dor-283456.jpg",
+                        "og:image:secure_url": "https://toplist.vn/images/800px/runam-dor-283456.jpg",
+                        "og:image:type": "image/jpeg",
+                        "og:image:width": "800",
+                        "og:image:height": "800",
+                        "og:image:alt": "Quán cà phê sữa đá được yêu thích nhất tại Sài Gòn"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://toplist.vn/images/800px/runam-dor-283456.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}
