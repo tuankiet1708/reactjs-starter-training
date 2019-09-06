@@ -1,3 +1,47 @@
+> Tomorrow will be too late, it's now or never.
+
+## Training Exercises
+
+More challenges at [https://cacoo.com/diagrams/CpBVHwiuJu2GF01C/F974F](https://cacoo.com/diagrams/CpBVHwiuJu2GF01C/F974F)
+
+## Available Additional Packages for Trainees
+### `axios`
+You can learn more in the [Github](https://github.com/axios/axios)
+
+### `lodash`
+You can learn more in the [Lodash documentation](https://lodash.com/docs)
+
+### `moment`
+You can learn more in the [Momentjs documentation](https://momentjs.com/docs)
+
+### `prop-types`
+You can learn more in the [Github](https://github.com/facebook/prop-types)
+
+### `react-router-dom`
+You can learn more in the [Documentation](https://reacttraining.com/react-router/web/guides/quick-start)
+
+### `reactstrap`
+You can learn more in the [Reactstrap documentation](https://reactstrap.github.io/)
+
+### `redux`
+You can learn more in the [Redux documentation](https://redux.js.org/introduction/getting-started)
+
+### `react-redux`
+You can learn more in the [Usage with React](https://redux.js.org/basics/usage-with-react)
+
+### `redux-thunk`
+You can learn more in the [Github](https://github.com/reduxjs/redux-thunk)
+
+### `redux-logger`
+You can learn more in the [Github](https://github.com/LogRocket/redux-logger)
+
+### `redux-persist`
+You can learn more in the [Github](https://github.com/rt2zz/redux-persist)
+
+
+___
+Original README content from https://reactjs.org/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
